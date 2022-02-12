@@ -2,7 +2,6 @@
 # file 명
 # directory/
 data/*
-발표자료/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
